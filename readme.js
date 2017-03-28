@@ -26,3 +26,5 @@
     }
 
 ```
+
+5) Done, now when you upload an image from Ghost gui it will be hosted to your cloudinary account instead of locally.
