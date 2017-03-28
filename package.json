@@ -1,6 +1,12 @@
 {
   "name": "ghost-cloudinary-storage",
   "version": "0.0.1",
+  "description": "Ghost storage adapter for Cloudinary",
+  "author": "jaga santagostino <jagasantagostino@gmail.com>",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kandros/ghost-cloudinary-storage.git"
+  }
 }
