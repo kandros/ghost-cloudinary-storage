@@ -1,6 +1,6 @@
 {
   "name": "ghost-cloudinary-storage",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ghost storage adapter for Cloudinary",
   "author": "jaga santagostino <jagasantagostino@gmail.com>",
   "main": "index.js",
