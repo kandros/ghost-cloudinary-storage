@@ -8,5 +8,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kandros/ghost-cloudinary-storage.git"
+  },
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "cloudinary": "^1.2.0",
+    "path": "^0.12.7"
   }
 }
